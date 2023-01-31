@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
+- [Solution](https://github.com/VasJM/order-summary-component)
 - [Live Site](https://your-live-site-url.com)
 
 ## My process
