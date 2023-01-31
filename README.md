@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - [Solution](https://github.com/VasJM/order-summary-component)
-- [Live Site](https://your-live-site-url.com)
+- [Live Site](https://visionary-sunshine-07afb3.netlify.app/)
 
 ## My process
 
