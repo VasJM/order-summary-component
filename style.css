@@ -61,7 +61,7 @@ body {
     place-content: center;
 }
 
-@media (min-width: 376px) {
+@media (min-width: 23.5em) {
     body {
         background-image: url("./images/pattern-background-desktop.svg");
         background-repeat: repeat-x;
@@ -84,7 +84,7 @@ p {
     margin: 1.25em;
     border-radius: 1em;
     overflow: hidden;
-    max-width: 24rem;
+    max-width: 24em;
     box-shadow: 0 1em 3em -1em hsla(245, 75%, 52%, 0.3);
 }
 
@@ -96,10 +96,15 @@ p {
     transition: all 0.05s ease-in-out;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 25em) {
     .sub-container {
         padding: 2em 2em;
     }
+}
+
+/*** Illustration ***/
+.hero-img {
+    width: 28.125em;
 }
 
 /*** Product Styles ***/
