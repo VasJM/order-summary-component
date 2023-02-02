@@ -1,4 +1,4 @@
-# Frontend Mentor - Order summary card solution
+# Frontend Mentor - Order Summary Card Solution
 
 This is a solution to the [Order Summary Card Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/VasJM/order-summary-component)
+- [Solution](https://www.frontendmentor.io/solutions/order-summary-component-using-css-grid-nBnX24TD9F)
 - [Live Site](https://visionary-sunshine-07afb3.netlify.app/)
 
 ## My process
