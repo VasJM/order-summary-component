@@ -2,7 +2,7 @@
 :root {
     --clr-primary: hsl(225, 100%, 94%);
     --clr-secondary: hsl(245, 75%, 52%);
-    --clr-tertiary: hsl(245, 80%, 68%);
+    --clr-accent: hsl(245, 80%, 68%);
 
     --clr-neutral-800: hsl(223, 47%, 23%);
     --clr-neutral-500: hsl(224, 23%, 55%);
@@ -140,7 +140,7 @@ p {
 
 .product__change-link:hover {
     text-decoration: none;
-    color: var(--clr-tertiary);
+    color: var(--clr-accent);
 }
 
 /*** Payment Button Styles ***/
@@ -158,7 +158,7 @@ button {
 }
 
 button:hover {
-    background-color: var(--clr-tertiary);
+    background-color: var(--clr-accent);
 }
 
 /*** Cancel Order Link Styles ***/
